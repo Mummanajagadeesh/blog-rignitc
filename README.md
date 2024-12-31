@@ -1,1 +1,1 @@
-# blog-rignitc
+# blogs
